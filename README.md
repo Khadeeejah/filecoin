@@ -1,5 +1,7 @@
 # filecoin
 
+Project Name: Nft minting smartcontract.
+
 I minted  an NFT end-to-end with Polygon and NFT.Storage. This provides proper decentralization and guarantees scalability, durability, and immutability.
 
 After deploying  a custom smart contract to mint my NFT specific, i used  ERC-721 standard,  
